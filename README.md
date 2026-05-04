@@ -1,7 +1,7 @@
 # caixa
 
-[001 - Environment](001-Environment.md)
+[Environment](001-Environment.md) - criar um environment para dev
 
-[002 - Solution](002-Solution.md)
+[Solution](002-Solution.md) - criar solution no environment criado
 
-[003 - Site](003-Site.md)
+[Site](003-Site.md) - criar communication site no sharepoint
