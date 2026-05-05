@@ -291,23 +291,6 @@ Esse código é gravado na coluna **Código** da própria lista.
 
 ---
 
-## Resumo do procedimento
-
-1. Acessar a lista **Produto**.
-2. Criar a coluna **Código** como **Single line of text**.
-3. Ajustar a ordem da coluna na exibição.
-4. Criar um fluxo automatizado no Power Automate.
-5. Usar o gatilho **When an item is created**.
-6. Configurar o site **Caixa** e a lista **Produto**.
-7. Adicionar a ação **Update item**.
-8. Repassar os campos obrigatórios do item criado.
-9. Preencher o campo **Código** com a expressão de geração automática.
-10. Salvar e publicar o fluxo.
-11. Criar um novo produto para testar.
-12. Confirmar o código gerado na lista e na execução do fluxo.
-
----
-
 ## Observações importantes
 
 - O SharePoint não possui autonumber customizado nativo como o Dataverse.
