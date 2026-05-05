@@ -32,6 +32,7 @@ O código será gerado com base no **ID interno do item** criado no SharePoint.
 1. Abra o site do SharePoint.
 2. Acesse a lista **Produto**.
 3. Confirme que a lista contém as colunas principais do cadastro de produtos.
+4. Clique em [Show actions] > "Settings"
 
 ![Lista Produto inicial](screenshots/01_lista_produto_inicial.jpg)
 
