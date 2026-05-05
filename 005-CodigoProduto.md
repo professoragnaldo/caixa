@@ -89,7 +89,7 @@ Single line of text
 
 1. Acesse o Power Automate.
 2. No menu lateral, clique em **My flows**.
-3. Confirme que está no ambiente correto.
+3. Confirme que está no ambiente correto - se não estiver, selecione o environment **ka**.
 4. Clique em **New flow** para criar um novo fluxo.
 
 ![Power Automate - My flows](screenshots/05_power_automate_my_flows.jpg)
