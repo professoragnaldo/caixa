@@ -258,22 +258,6 @@ Ao final do processo, a lista **Produto** estará criada no SharePoint com os ca
 - **Preço**: preço do produto com duas casas decimais.
 - **Ativo**: indicação se o produto está ativo para uso.
 
-## Resumo do procedimento
-
-1. Acessar **Site contents**.
-2. Criar uma nova lista em branco.
-3. Nomear a lista como **Produto**.
-4. Criar a coluna **Unidade** como **Choice**.
-5. Inserir as opções **UN**, **L**, **KG**, **M**, **M²** e **M³**.
-6. Definir **UN** como valor padrão.
-7. Tornar **Unidade** obrigatória.
-8. Criar a coluna **Preço** como **Currency**.
-9. Definir **2** casas decimais para **Preço**.
-10. Criar a coluna **Ativo** como **Yes/No**, com valor padrão **Yes**.
-11. Abrir **List settings**.
-12. Alterar a coluna **Title** para **Nome**.
-13. Tornar **Nome** obrigatório.
-
 ## Observações didáticas
 
 - A coluna **Title** é criada automaticamente pelo SharePoint. Renomeá-la para **Nome** deixa a lista mais coerente com o cadastro de produtos.
